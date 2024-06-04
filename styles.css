@@ -4,10 +4,12 @@ body{
     text-align: center;
 }
 
-#f1{
+#f1::before{
     display: inline;
+    content: 'Flower photos';
 }
 
-#f2{
+#f2::before{
     display: inline;
+    content: 'Roses pictures';
 }
