@@ -6,7 +6,7 @@ body{
 
 #f1::before{
     display: inline;
-    content: 'Flower photos';
+    content: 'Flowers photos';
 }
 
 #f2::before{
